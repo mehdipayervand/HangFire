@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "woNs2c1A+Y0=",
+  "dgSpecHash": "A6hvFaG9wZ+NAP7KaoKTVQWBN+Mz212CXZzDE+w5wZ5MArzBVSeBmUibrby6nMOH9iTu/2PEp87pAIbC3lQMBQ==",
   "success": true,
-  "projectFilePath": "D:\\HangFire\\FireApp\\FireApp.csproj",
+  "projectFilePath": "D:\\src\\Me\\HangFire\\FireApp\\FireApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehdi\\.nuget\\packages\\hangfire\\1.8.15\\hangfire.1.8.15.nupkg.sha512",
     "C:\\Users\\Mehdi\\.nuget\\packages\\hangfire.aspnetcore\\1.8.15\\hangfire.aspnetcore.1.8.15.nupkg.sha512",

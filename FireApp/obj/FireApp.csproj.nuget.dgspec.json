@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HangFire\\FireApp\\FireApp.csproj": {}
+    "D:\\src\\Me\\HangFire\\FireApp\\FireApp.csproj": {}
   },
   "projects": {
-    "D:\\HangFire\\FireApp\\FireApp.csproj": {
+    "D:\\src\\Me\\HangFire\\FireApp\\FireApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HangFire\\FireApp\\FireApp.csproj",
+        "projectUniqueName": "D:\\src\\Me\\HangFire\\FireApp\\FireApp.csproj",
         "projectName": "FireApp",
-        "projectPath": "D:\\HangFire\\FireApp\\FireApp.csproj",
+        "projectPath": "D:\\src\\Me\\HangFire\\FireApp\\FireApp.csproj",
         "packagesPath": "C:\\Users\\Mehdi\\.nuget\\packages\\",
-        "outputPath": "D:\\HangFire\\FireApp\\obj\\",
+        "outputPath": "D:\\src\\Me\\HangFire\\FireApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
